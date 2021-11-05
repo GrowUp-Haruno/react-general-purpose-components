@@ -1,0 +1,9 @@
+{
+  "name": "react-general-purpose-components",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:GrowUp-Haruno/react-general-purpose-components.git",
+  "author": "Daisuke Wada <74647388+GrowUp-Haruno@users.noreply.github.com>",
+  "license": "MIT",
+  "private": null
+}
